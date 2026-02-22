@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppRegistroPedidos" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryTeal</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/accent_light</item>
+        <item name="android:colorBackground">@color/softGrayBG</item>
+        <item name="android:windowBackground">@color/softGrayBG</item>
+        <item name="android:statusBarColor">@color/softGrayBG</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="FormInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">18dp</item>
+        <item name="boxCornerRadiusTopEnd">18dp</item>
+        <item name="boxCornerRadiusBottomStart">18dp</item>
+        <item name="boxCornerRadiusBottomEnd">18dp</item>
+        <item name="boxStrokeColor">@color/divider</item>
+        <item name="hintTextColor">@color/primaryTeal</item>
+        <item name="android:textColorHint">@color/slate_400</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primaryTeal</item>
+        <item name="android:textColor">@color/on_primary</item>
+        <item name="cornerRadius">18dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="Theme.AppRegistroPedidos" parent="Base.Theme.AppRegistroPedidos" />
+</resources>

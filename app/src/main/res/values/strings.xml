@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pedidos</string>
+
+    <!-- Formulario -->
+    <string name="titulo_formulario">Registro de Pedido</string>
+    <string name="label_nombre_cliente">Nombre del cliente</string>
+    <string name="hint_nombre_cliente">Ingrese el nombre completo</string>
+    <string name="label_telefono">Teléfono</string>
+    <string name="hint_telefono">Ej: 0991234567</string>
+    <string name="label_direccion">Dirección / Referencia</string>
+    <string name="hint_direccion">Ingrese la dirección de entrega</string>
+    <string name="label_detalle">Detalle del pedido</string>
+    <string name="hint_detalle">Describa los productos o servicios</string>
+
+    <!-- Tipo de pago -->
+    <string name="label_tipo_pago">Tipo de pago</string>
+    <string name="pago_efectivo">Efectivo</string>
+    <string name="pago_transferencia">Transferencia</string>
+
+    <!-- Botones -->
+    <string name="btn_leer_qr">Leer QR</string>
+    <string name="btn_tomar_foto">Tomar Foto</string>
+    <string name="btn_guardar">Guardar Pedido</string>
+
+    <!-- Estado -->
+    <string name="estado_pendiente">Pendiente de sincronización</string>
+    <string name="estado_sincronizado">Sincronizado</string>
+
+    <!-- Accesibilidad -->
+    <string name="desc_foto_preview">Vista previa de la foto del pedido</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Registro de Pedidos</string>
+    <string name="login_subtitulo">Inicie sesión para continuar</string>
+    <string name="login_hint_usuario">Usuario</string>
+    <string name="login_hint_contrasena">Contraseña</string>
+    <string name="login_btn_ingresar">Iniciar Sesión</string>
+
+    <!-- Lista de pedidos -->
+    <string name="lista_titulo">Mis Pedidos</string>
+    <string name="lista_vacia">No hay pedidos registrados</string>
+    <string name="btn_nuevo_pedido">Nuevo Pedido</string>
+    <string name="btn_sincronizar">Sincronizar</string>
+    <string name="detalle_titulo">Detalle del Pedido</string>
+</resources>

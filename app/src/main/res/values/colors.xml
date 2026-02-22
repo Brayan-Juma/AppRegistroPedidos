@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neo-Tactile Primary -->
+    <color name="primaryTeal">#2C4F58</color>
+    <color name="accentOrange">#FFB366</color>
+    <color name="successGreen">#10B981</color>
+    <color name="softGrayBG">#F4F7F7</color>
+
+    <!-- Aliases for Kotlin compatibility -->
+    <color name="primary">#2C4F58</color>
+    <color name="primary_dark">#1E3A40</color>
+    <color name="primary_light">#3D6B77</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="accent">#FFB366</color>
+    <color name="accent_light">#FFE0B2</color>
+
+    <!-- Surfaces -->
+    <color name="app_background">#F4F7F7</color>
+    <color name="card_bg_light">#FFFFFF</color>
+    <color name="divider">#E2E8F0</color>
+
+    <!-- Semantic -->
+    <color name="emerald_600">#10B981</color>
+    <color name="amber_600">#D97706</color>
+    <color name="rose_600">#DC2626</color>
+
+    <!-- Neutrals -->
+    <color name="slate_50">#F9FAFB</color>
+    <color name="slate_100">#F3F4F6</color>
+    <color name="slate_400">#9CA3AF</color>
+    <color name="slate_500">#6B7280</color>
+    <color name="slate_800">#1F2937</color>
+
+    <!-- Text aliases -->
+    <color name="primary_text">@color/slate_800</color>
+    <color name="secondary">@color/emerald_600</color>
+    <color name="text_primary">@color/slate_800</color>
+    <color name="text_secondary">@color/slate_500</color>
+    <color name="text_tertiary">@color/slate_400</color>
+
+    <!-- Badge backgrounds -->
+    <color name="badge_synced_bg">#D1FAE5</color>
+    <color name="badge_pending_bg">#FEF3C7</color>
+    <color name="badge_error_bg">#FEE2E2</color>
+    <color name="logout_pink">#FEE2E2</color>
+    <color name="logout_red">#EF4444</color>
+
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Pastel item colors -->
+    <color name="task_cream">#FEF3C7</color>
+    <color name="task_blue">#DBEAFE</color>
+    <color name="task_pink">#FCE7F3</color>
+    <color name="task_green">#D1FAE5</color>
+</resources>
